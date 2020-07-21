@@ -1,0 +1,23 @@
+header
+{
+	background-color:#84ED93;
+}
+p
+{
+	color: white;
+}
+.para
+{
+	background-color:black;
+	color:white;
+	width:19.50%;
+	margin-left: 1195px;
+	text-align: center;
+}
+.jumbotron
+{
+	width:55%;
+	margin-left:220px;
+	margin-top:-130px;
+	text-align: center;
+}
